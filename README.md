@@ -1,8 +1,3 @@
-Nice 😄 a good README makes your project look **serious and professional** on GitHub.
-
-You can copy-paste this into a file called **README.md** in your project.
-
----
 
 # 🧭 Akan Name Generator
 
