@@ -1,4 +1,4 @@
-*{
+* {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -10,42 +10,42 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: linear-gradient(135deg, #667eea, #764ba2);
+    background: linear-gradient(135deg, #667eea, #764ba2);
 }
 
-.card{
+.card {
     width: 380px;
     padding: 30px;
     border-radius: 20px;
     background: rgba(255, 255, 255, 0.15);
     backdrop-filter: blur(15px);
     box-shadow: 0 8px 32px rgba(0,0,0,0.25);
-    color: white
+    color: white;
 }
 
-h1{
+h1 {
     text-align: center;
     margin-bottom: 20px;
     font-weight: 600;
 }
 
-label{
+label {
     margin-top: 12px;
     display: block;
     font-size: 14px;
 }
 
-input, select{
+input, select {
     width: 100%;
     padding: 10px;
     margin-top: 5px;
-    border: none;
     border-radius: 8px;
+    border: none;
     outline: none;
     font-size: 14px;
 }
 
-input:focus, select:focus{
+input:focus, select:focus {
     box-shadow: 0 0 0 2px #ffffff;
 }
 
