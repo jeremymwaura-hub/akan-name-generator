@@ -44,3 +44,8 @@ input, select{
     outline: none;
     font-size: 14px;
 }
+
+input:focus, select:focus{
+    box-shadow: 0 0 0 2px #ffffff;
+}
+
